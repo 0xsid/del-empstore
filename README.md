@@ -1,3 +1,3 @@
 # del-empstore
 
-Employee mgmt. system, using Hibernate
+Employee mgmt. system, using Hibernate.
